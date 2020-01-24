@@ -52,3 +52,4 @@ resource "aws_instance" "bullseye" {
     "DHCP option" = "alam.rocks"
   }
 }
+
